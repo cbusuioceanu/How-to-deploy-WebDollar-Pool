@@ -1,2 +1,4 @@
-# How-to-deploy-WebDollar-Pool
+# How to deploy WebDollar Pool
 Tutorial to install and configure your own WebDollar Pool
+
+Click to view tutorial -> **<a href="#" >how-to-deploy-webdollar-pool.md</a>**
