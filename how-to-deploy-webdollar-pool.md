@@ -51,9 +51,8 @@ npm run dev # better use screen command or open another terminal - Run this comm
 ```
 ### 5. Configuring your WebDollar Pool (run commands in Node Window)
 ```shell
-press 12, hit enter. Write your Pool Server`s Address - default should be: https://your_domain.tld:80
 press 11, hit enter. When asked about Pool Website - default should be: https://your_domain.tld:9094
-When asked if you want to use external pool servers, hit y and enter your Pool Server's Address (do this to avoid seeing a IP address at the end of your Pool link)
+When asked if you want to use external pool servers, hit n
 ```
 ### 6. Updating Node and vue
 ```shell
